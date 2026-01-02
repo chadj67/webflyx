@@ -1,0 +1,69 @@
+[33mcommit 156e576936c0f994e43a2c3f2db3c838202dd59e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Merge: bee2ee7 a035f7b
+Author: chadj67 <chadj67@gmail.com>
+Date:   Fri Jan 2 17:07:41 2026 -0600
+
+    K: Merge branch 'main' of https://github.com/chadj67/webflyx
+
+[33mcommit bee2ee74f4b8ef9decea1dfeb7e6f19a2fd8f332[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Fri Jan 2 17:00:30 2026 -0600
+
+    J: Update classics.csv
+
+[33mcommit a035f7ba974880d7128f8427e9b8b38076582e1e[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Fri Jan 2 17:00:30 2026 -0600
+
+    Update classics.csv
+
+[33mcommit 3646ec2fa4e3ac926412c660c02a74309ecae23b[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Fri Jan 2 16:55:51 2026 -0600
+
+    Revert "G: Modified titles.md"
+    
+    This reverts commit 708ca9ce79344d9129d20289ce1d9fe4d3b0d939.
+
+[33mcommit 708ca9ce79344d9129d20289ce1d9fe4d3b0d939[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Fri Jan 2 11:26:29 2026 -0600
+
+    G: Modified titles.md
+
+[33mcommit bc3b336a175ce0e657f00ad9acb37c67226f998c[m
+Merge: e9832dc c932f12
+Author: chadj67 <chadj67@gmail.com>
+Date:   Fri Jan 2 11:08:41 2026 -0600
+
+    F: Merge into main
+
+[33mcommit e9832dc93bd5262b2ad36f0829682f039d4d1c9c[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Fri Jan 2 11:04:06 2026 -0600
+
+    E: contents.md modified
+
+[33mcommit c932f1276f59115ce7c4b825ccdabfb9d37e2a08[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Thu Jan 1 20:51:33 2026 -0600
+
+    D: Created classic.csv
+
+[33mcommit 075a99dbc0c654cd35d6e3c0880d15adebdd1eae[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Thu Jan 1 19:29:31 2026 -0600
+
+    C: add quotes
+
+[33mcommit 3f632aecd1312fb1f8e6ed34760430e6864dba38[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Thu Jan 1 19:24:11 2026 -0600
+
+    B: add titles
+
+[33mcommit 36348dcb0937ca435d7f9e5863792b7832e14655[m
+Author: chadj67 <chadj67@gmail.com>
+Date:   Thu Jan 1 19:06:34 2026 -0600
+
+    A: add contents.md
